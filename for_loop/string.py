@@ -12,3 +12,8 @@ for i in name:
 name="python"
 for i in name:
     print(i, end=" ")
+
+
+name="venkat"
+name1=name[-1::-1]
+print(name1, end=" ")
